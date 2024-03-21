@@ -1,6 +1,6 @@
 ### 👨‍💻 About Me
 
-Hey there! 👋 I'm Luffy, an aspiring data analyst with a knack for coding and a love for music. 🎶 Currently, I'm on a journey of learning data science from various sources, including Google Skill Boost, Skillcept, and through books. 📚 I graduated with a BBA from RTMNU and currently work as an Accounts Receivable specialist in US Healthcare RCM. 💼 My passion for problem-solving and data analysis drives me to explore new skills and collaborate on exciting projects. When I'm not coding, you can find me strumming away on my guitar or exploring new tunes. 🎸
+Hey there! 👋 I'm Sujit, an aspiring data analyst with a knack for coding and a love for music. 🎶 Currently, I'm on a journey of learning data science from various sources, including Google Skill Boost, Skillcept, and through books. 📚 I graduated with a BBA from RTMNU and currently work as an Accounts Receivable specialist in US Healthcare RCM. 💼 My passion for problem-solving and data analysis drives me to explore new skills and collaborate on exciting projects. When I'm not coding, you can find me strumming away on my guitar or exploring new tunes. 🎸
 
 
 ### 🌐 Skills
