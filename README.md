@@ -1,19 +1,19 @@
 ### 👨‍💻 About Me
 
-Hey there! 👋 I'm Sujit, an aspiring data analyst with a knack for coding and a love for music. 🎶 Currently, I'm on a journey of learning data science from various sources, including Google Skill Boost, Skillcept, and through books. 📚 I graduated with a BBA from RTMNU and currently work as an Accounts Receivable specialist in US Healthcare RCM. 💼 My passion for problem-solving and data analysis drives me to explore new skills and collaborate on exciting projects. When I'm not coding, you can find me strumming away on my guitar or exploring new tunes. 🎸
+Hey there! 👋 My name is Sujit, a skilled Data Scientist with strong expertise in data analysis and a commanding proficiency in data visualization tools. I excel at transforming complex data into actionable insights. Guided by a principle of kindness coupled with confidence and discernment, I am dedicated to delivering high-quality business intelligence solutions aimed at enhancing operational efficiency. Currently seeking opportunities to leverage my skills in creating impactful business solutions.
 
 
 ### 🌐 Skills
 
-- **Programming Languages:** Python (NumPy, Pandas, Scikit-Learn)
-<!-- - **Data Manipulation & Analysis:** SQL, Excel, Data Cleaning
-- **Machine Learning:** Regression, Classification, Clustering, Feature Engineering
-- **Visualization:** Matplotlib, Seaborn, Tableau
-- **Tools & Platforms:** Jupyter Notebooks, Git, GitHub  -->
+- **Programming Languages:** Python (Intermediate)
+- **Data Manipulation & Analysis:** SQL (Intermediate), Excel (Advance), Data Cleaning (Intermediate)
+- **Machine Learning:** Sci-kit Learn (Intermediate), TensorFlow (Basic) Regression, Classification, Clustering, Feature Engineering
+- **Visualization:** Power BI (Advance), Matplotlib (Intermediate), Seaborn (Intermediate), Tableau (Advance), Pandas (Intermediate)
+- **Tools & Platforms:** Jupyter Notebooks (Intermediate), Git (Advance), GitHub, Google Cloud (Intermediate)
 
 ### 📚 Learning & Projects
 
-I'm <!--constantly--> learning and working on exciting projects that will showcase my skills. <!--From predicting house prices to analyzing customer behavior, each project is a step forward in my data science journey. Check out my repositories to see what I'm currently exploring! -->
+I'm constantly learning and working on exciting projects that will showcase my skills. From predicting house prices to analyzing customer behavior, each project is a step forward in my data science journey. Check out my repositories to see what I'm currently exploring!
 
 ### 🤝 Let's Connect
 
